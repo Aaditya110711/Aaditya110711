@@ -16,9 +16,9 @@
 
 🌐 My expertise lies in full-stack development with a focus on Python, where I harness my skills to build web solutions that can drive positive change.
 
-📬 How to reach me: [aaditya.rola110711@marwadiuniversity.ac.in](mailto:aaditya.rola110711@marwadiuniversity.ac.in)
+📬 How to reach me: [Aditya Rola](mailto:adipatel93275@gmail.com)
 
-📝 [Resume](https://drive.google.com/file/d/1TPFE4Qs-dbQe-7SuAZgtsi0KJZIPz_mT/view?usp=sharing).
+📝 [Resume](https://drive.google.com/file/d/1hSHpKH9Bt9otJiYfpY6SFY_ilI5XtGqR/view?usp=sharing).
 
 
 ## 🛠️ My favorite tools
