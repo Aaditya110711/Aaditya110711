@@ -1,6 +1,6 @@
 # Welcome to [Aaditya Rola's](https://github.com/Aaditya110711) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/aaditya-rola-a21929227" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aaditya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aaditya-rola-python-developer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aaditya" height="30" width="40" /></a>
 &nbsp;
 <a href="https://twitter.com/AadityaRola" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aaditya" height="30" width="40" /></a>
 &nbsp;
